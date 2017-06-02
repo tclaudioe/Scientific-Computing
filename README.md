@@ -2,7 +2,7 @@
 Lots of fun stuffs about Scientific Computing
 
 ## Mini-Bio
-Claudio Torres, professor at [Department of Informatics](http://www.inf.utfsm.cl),
+Claudio Torres, academic at [Department of Informatics](http://www.inf.utfsm.cl),
 [UTFSM](http://www.usm.cl). See my soon-to-be updated [webpage](https://www.inf.utfsm.cl/~ctorres).
 
 I am very interested in Scientific Computing, which includes
