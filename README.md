@@ -1,5 +1,5 @@
-# Scientific-Computing
-Lots of fun stuffs about Scientific Computing
+# Scientific Computing
+Lots of fun stuffs about Scientific Computing!
 
 ## Mini-Bio
 Claudio Torres is a faculty member at [Department of Informatics](http://www.inf.utfsm.cl),
