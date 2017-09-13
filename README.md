@@ -8,6 +8,8 @@ Claudio Torres is a faculty member at [Department of Informatics](http://www.inf
 I am very interested in Scientific Computing, which includes
 Mathematics, Informatics, and anything you want.
 
-## What will this repo contain? (very soon!)
+## What will this repo contain? 
 The main idea is to upload all jupyter notebooks
 I use in the courses I teach or coordinate.
+
+First set of notebook is out!!
