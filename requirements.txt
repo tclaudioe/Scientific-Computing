@@ -1,0 +1,10 @@
+numpy
+matplotlib
+sympy
+scipy
+pandas
+ipywidgets
+colorama
+sklearn
+IPython
+bitstring
