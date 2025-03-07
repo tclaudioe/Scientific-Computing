@@ -14,4 +14,4 @@ I use in the courses I teach or coordinate.
 
 First set of notebook is out!!
 
-*WARNING*: The updated version of SC1 and SC2v2 is now located in [https://github.com/tclaudioe/Scientific-Computing-V3](https://github.com/tclaudioe/Scientific-Computing-V3)
+<span style="color:red">**WARNING**</span>: The updated version of SC1 and SC2v2 is now located in [https://github.com/tclaudioe/Scientific-Computing-V3](https://github.com/tclaudioe/Scientific-Computing-V3)
